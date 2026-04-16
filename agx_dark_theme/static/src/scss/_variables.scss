@@ -1,0 +1,93 @@
+// AGX Dark Theme - Variables Odoo 17 + Bootstrap
+// Paleta Catppuccin Mocha
+// Este archivo se inyecta ANTES que primary_variables.scss y secondary_variables.scss
+
+// === Variables propias de Odoo 17 ===
+$o-webclient-color-scheme: dark;
+
+// Paleta de grises Odoo (usada en fondos, bordes, texto)
+$o-gray-100: #313244;
+$o-gray-200: #45475a;
+$o-gray-300: #585b70;
+$o-gray-400: #6c7086;
+$o-gray-500: #7f849c;
+$o-gray-600: #a6adc8;
+$o-gray-700: #bac2de;
+$o-gray-800: #cdd6f4;
+$o-gray-900: #e6e0dc;
+
+// Fondos principales de Odoo
+$o-view-background-color: #1e1e2e;
+$o-webclient-background-color: #181825;
+$o-main-text-color: #cdd6f4;
+$o-brand-lightsecondary: #313244;
+$o-form-lightsecondary: #45475a;
+
+// === Variables Bootstrap (para componentes BS que Odoo usa) ===
+$gray-100: #313244;
+$gray-200: #45475a;
+$gray-300: #585b70;
+$gray-400: #6c7086;
+$gray-500: #7f849c;
+$gray-600: #a6adc8;
+$gray-700: #bac2de;
+$gray-800: #cdd6f4;
+$gray-900: #e6e0dc;
+
+$body-bg:    #1e1e2e;
+$body-color: #cdd6f4;
+
+$card-bg:           #24273a;
+$card-border-color: #313244;
+
+$input-bg:                 #313244;
+$input-color:              #cdd6f4;
+$input-border-color:       #45475a;
+$input-placeholder-color:  #6c7086;
+$input-focus-bg:           #3d3f52;
+$input-focus-border-color: #89b4fa;
+
+$dropdown-bg:              #181825;
+$dropdown-border-color:    #313244;
+$dropdown-link-color:      #cdd6f4;
+$dropdown-link-hover-bg:   #313244;
+$dropdown-link-active-bg:  #45475a;
+
+$modal-content-bg:          #24273a;
+$modal-header-border-color: #313244;
+$modal-footer-border-color: #313244;
+
+$table-bg:          #1e1e2e;
+$table-color:       #cdd6f4;
+$table-border-color: #313244;
+$table-striped-bg:  #242434;
+$table-hover-bg:    #2a2a3e;
+
+$nav-tabs-border-color:             #313244;
+$nav-tabs-link-active-bg:           #24273a;
+$nav-tabs-link-active-border-color: #313244;
+
+$list-group-bg:           #1e1e2e;
+$list-group-border-color: #313244;
+$list-group-color:        #cdd6f4;
+$list-group-hover-bg:     #313244;
+$list-group-action-color: #cdd6f4;
+
+$pagination-bg:           #24273a;
+$pagination-border-color: #313244;
+$pagination-color:        #89b4fa;
+$pagination-hover-bg:     #313244;
+$pagination-active-bg:    #89b4fa;
+
+$tooltip-bg:    #181825;
+$tooltip-color: #cdd6f4;
+
+$popover-bg:           #24273a;
+$popover-border-color: #313244;
+$popover-header-bg:    #181825;
+$popover-body-color:   #cdd6f4;
+
+$hr-color:     #313244;
+$border-color: #313244;
+$link-color:       #89b4fa;
+$link-hover-color: #b4d0ff;
